@@ -8,7 +8,7 @@
 
 Soy un apasionado de la tecnología y el desarrollo de software. Actualmente, estudio Desarrollo de Aplicaciones Multiplataforma (DAM) en la UCAM, donde profundizo en programación, bases de datos y metodologías modernas. Me encanta aprender a diario y mejorar mis habilidades con nuevos retos.  
 
-Además, el deporte es una parte fundamental de mi vida. Practico kickboxing y voy al gimnasio , lo que me ha enseñado disciplina, esfuerzo , constanci y valores que aplico en la vida. 
+Además, el deporte es una parte fundamental de mi vida. Practico kickboxing y voy al gimnasio , lo que me ha enseñado disciplina, esfuerzo , constancia y valores que aplico en la vida. 
 
 ---
 
